@@ -4,7 +4,7 @@ This include allows you to create many types of stores using Textdraws.
 
 
 ### Example code
-`
+```
 //in your script find cmd:buy and replace with this code
 case BUSINESS_STORE:
 	    {
@@ -29,4 +29,4 @@ case BUSINESS_STORE:
 			MenuStore_AddItem(playerid, 19, 365, 	"Repairkit", 	5000);
 			MenuStore_Show(playerid, Menu_Market, "24/7 Supermarket");
 		}
-`
+```
